@@ -149,7 +149,7 @@ export default class Login extends Component {
                                 })(<Input addonBefore={<Icon type="lock" />} placeholder="请输入密码" type="password" />)}
                               </FormItem>
                               <FormItem>
-                                <Button type="primary" htmlType="submit" className="cert-btn">登录</Button>
+                                <Button type="primary" htmlType="submit" className="cert-btn">Login</Button>
                               </FormItem>
                             </div>) :
                             <FormItem>
